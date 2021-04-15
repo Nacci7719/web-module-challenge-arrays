@@ -207,7 +207,7 @@ const newFlavors = [
     "Honey Almond",
     "Mint Chocolate Chip",
     "Chocolate",
-    "Oreo® Cookies'n Cream",
+    "Oreo® Cookies'n Cream",.git
     "Chocolate Chip",
     "Pralines 'n Cream",
     "Very Berry Strawberry",
